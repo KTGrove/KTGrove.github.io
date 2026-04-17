@@ -12,17 +12,15 @@ As part of this ePortfolio, I conducted a comprehensive code review of my select
 
 ## Software Engineering Enhancement
 [View Code Enhancement](EnhancementCode.1)
-[View Narrative for Enhancement](Milestone%20Two%20-%20EnhancementCode.1.docx)
 
 ## Algorithms and Data Structures Enhancement
 [View Code Enhancement](EnhancementCode.2)
-[View Narrative for Enhancement](Milestone%20Two%20-%20EnhancementCode.2.docx)
 
 ## Databases Enhancement
 [View Code Enhancement](EnhancementCode.3)
-[View Narrative for Enhancement](Milestone%20Four%20Narrative.docx)
 
 ## Original Artifact
 [View Source Code](CapstoneSourceCode)
 
 ## Contact / Links
+[LinkedIn](www.linkedin.com/in/kiersten-grove-45a047277)
