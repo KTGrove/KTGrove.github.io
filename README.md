@@ -1,5 +1,13 @@
 # Kiersten Grove | CS Major in Software Engineering and Data Analytics
 
+## Navigation
+- [Self-Assessment](#professional-self-assessment)
+- [Code Review](#code-review-video)
+- [Artifact Overview](#artifact-overview)
+- [Software Engineering](#software-engineering-enhancement)
+- [Algorithms](algorithms-and-data-structures-enhancement)
+- [Databases](#databases-enhancement)
+
 ## Professional Self-Assessment
 Throughout my academic career in the Computer Science program, I have developed a strong foundation in software engineering, data structures, database management, and secure coding practices. This ePortfolio represents not only my technical growth, but also my ability to apply these skills to real-world problems.
 
