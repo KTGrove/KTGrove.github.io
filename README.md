@@ -87,5 +87,5 @@ The original version of this project served as the foundation for all enhancemen
 ---
 
 ## Contact / Links
-[LinkedIn](www.linkedin.com/in/kiersten-grove-45a047277)
-[GitHub](https://github.com/KTGrove)
+- [LinkedIn](www.linkedin.com/in/kiersten-grove-45a047277)
+- [GitHub](https://github.com/KTGrove)
