@@ -3,17 +3,19 @@ The artifact selected for this enhancement is the Animal Shelter Dashboard Appli
 For this milestone, the artifact was refactored and enhanced within a Visual Studio environment utilizing Python to improve the overall structure, scalability, and database interaction. The focus of this enhancement was to strengthen the database functionality, improve the data handling, and ensure more consistent and reliable interactions between the application and MongoDB. 
 
 This artifact was selected for inclusion in my ePortfolio because it demonstrates practical experience working with a NoSQL database such as MongoDB, in a real application context. It also highlights my ability to design and implement database-driven solutions that support dynamic user interaction and data filtering. The artifact showcases several key skills in database development including:
-•	Establishing and managing database connections
-•	Implementing CRUD operations
-•	Structuring data retrieval in a consistent and reusable format
-•	Integrating database queries with application-level logic
+
+-	Establishing and managing database connections
+-	Implementing CRUD operations
+-	Structuring data retrieval in a consistent and reusable format
+-	Integrating database queries with application-level logic
 
 The enhancements made to this artifact significantly improved its overall quality. Originally, the database interactions were less structured and relied on hardcoded configurations. Through enhancements, I introduced a centralized configuration file, improved query consistency, and ensured the data returned from the database was formatted in a predictable and usable way. These improvements make the application more maintainable, scalable, and aligned with industry practices.
 
 Through this enhancement, I made progress toward several program outcomes. Most notably are my ability demonstrations to:
-•	Design and evaluate computing solutions using the appropriate practices and standards by improving the database interactions and restructuring data retrieval and processes. 
-•	Use well founded and innovative techniques and tools by implementing MongoDB within a Python-based application and improving how data is managed across the system. 
-•	Develop a security mindset by beginning to implement structured data handling and planning for input validation and error handling. 
+
+-	Design and evaluate computing solutions using the appropriate practices and standards by improving the database interactions and restructuring data retrieval and processes. 
+-	Use well founded and innovative techniques and tools by implementing MongoDB within a Python-based application and improving how data is managed across the system. 
+-	Develop a security mindset by beginning to implement structured data handling and planning for input validation and error handling. 
 
 The process of enhancing this artifact provided valuable insight into how database design and implementation impact the overall functionality of an application. One of the most important lessons I learned was the importance of structuring database interactions in a way that promotes consistency and maintainability. Initially the application relied less on structured database interactions and hardcoded configurations, which limited flexibility. Refactoring the project into a more modular structure and introducing configuration-based database connections significantly improved the organization of the code. Additionally, updating the CRUD operations to return consistent data formats made it easier to integrate database results into the application’s filtering and visualization logic. 
 
