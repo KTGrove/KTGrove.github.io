@@ -46,7 +46,7 @@ This enhancement focused on improving the overall structure, readability, and ma
 - Code refactoring and optimization
 - Problem-solving and debugging
 
-[View Code Enhancement]([EnhancementCode.1](https://github.com/KTGrove/KTGrove.github.io/tree/main/EnhancementCode.1/AnimalShelterApp))
+[View Software Engineering Code Enhancement](https://github.com/KTGrove/KTGrove.github.io/tree/main/EnhancementCode.1/AnimalShelterApp)
 
 ---
 
@@ -64,7 +64,7 @@ This enhancement improved the efficency of the data processing and filtering wit
 - Data structure utilization
 - Logical problem-solving
 
-[View Code Enhancement]([EnhancementCode.2](https://github.com/KTGrove/KTGrove.github.io/tree/main/EnhancementCode.2))
+[View Algorithms and Data Structures Code Enhancement](https://github.com/KTGrove/KTGrove.github.io/tree/main/EnhancementCode.2/AnimalShelterApp)
 
 ---
 
@@ -82,7 +82,7 @@ This enhancement focused on expanding the database functionality and improving d
 - Data validation and integrity
 - Backend system integration
 
-[View Code Enhancement]([EnhancementCode.3](https://github.com/KTGrove/KTGrove.github.io/tree/main/EnhancementCode.3))
+[View Databases Code Enhancement](https://github.com/KTGrove/KTGrove.github.io/tree/main/EnhancementCode.3/AnimalShelterApp)
 
 ---
 
@@ -90,7 +90,7 @@ This enhancement focused on expanding the database functionality and improving d
 
 The original version of this project served as the foundation for all enhancements. It provided basic functionality for displaying and interacting with animal shelter data.
 
-[View Source Code](CapstoneSourceCode)
+[View Original Source Code](https://github.com/KTGrove/KTGrove.github.io/tree/main/CapstoneSourceCode)
 
 ---
 
